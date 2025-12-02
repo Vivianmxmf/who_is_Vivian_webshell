@@ -2,15 +2,15 @@ const helpObj = {
   "commands": [
     [
     "'about'",
-    "Who made this website?",
+    "Who is Vivian?",
     ],
     [
       "'projects'",
-      "Maybe there's something interesting."
+      "What does Vivian do as a CS person?"
     ],
     [
       "'whoami'",
-      "A perplexing question."
+      "Just type it"
     ],
     ["'sudo'",
       "???"

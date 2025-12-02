@@ -1,56 +1,62 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    "██╗    ██╗██╗  ██╗ ██████╗     ██╗███████╗    ██╗   ██╗██╗██╗   ██╗██╗ █████╗ ███╗   ██╗",
+    "██║    ██║██║  ██║██╔═══██╗    ██║██╔════╝    ██║   ██║██║██║   ██║██║██╔══██╗████╗  ██║",
+    "██║ █╗ ██║███████║██║   ██║    ██║███████╗    ██║   ██║██║██║   ██║██║███████║██╔██╗ ██║",
+    "██║███╗██║██╔══██║██║   ██║    ██║╚════██║    ╚██╗ ██╔╝██║╚██╗ ██╔╝██║██╔══██║██║╚██╗██║",
+    "╚███╔███╔╝██║  ██║╚██████╔╝    ██║███████║     ╚████╔╝ ██║ ╚████╔╝ ██║██║  ██║██║ ╚████║",
+    " ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝╚══════╝      ╚═══╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝"
   ],
-  "title": "WebShell",
+  "title": "Who is Vivian?",
   "username": "visitor",
   "hostname": "webshell",
-  "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "password": "vivian",
+  "repoLink": "https://github.com/who_is_Vivian/webshell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "wh174@duke.com",
+    "github": "https://github.com/Vivianmxmf",
+    "linkedin": "https://www.linkedin.com/in/weijia-han-51b99a2bb/"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Reveal yourself!",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "LLM-Based Agents for Status Dynamics in Evolving Social Networks",
+      "If the smallest models could already navigate economic networks this effectively, what seismic shifts await when more powerful ones enter our social and economic systems? ",
+      "https://github.com/Vivianmxmf/LLM-Based_Agents_Evolving_Social_Networks"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Schedule/Task Management System",
+      "Is your school life organised enough?",
+      "https://github.com/xyzhang30/Schedule_Task_Management_App"
+    ],
+    [
+      "Jury Deliberation LLM Agents Simulator",
+      "How quickly can artificial rationality reshape the spaces we thought belonged to human judgment alone?",
+      "https://github.com/Vivianmxmf/Jury_Deliberation_LLMAgents_Simulator"
     ]
   ],
   "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "background": "#0b1c33",
+    "foreground": "#F0F8FF",
+    "banner": "#4895D8",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#003087"
     },
     "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
-      "host": "#70FDFF",
-      "input": "#FF7685"
+      "default": "#7B8C9E",
+      "user": "#00A3E0",
+      "host": "#FFFFFF",
+      "input": "#B0D4FF"
     },
     "link": {
-      "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
-      "highlightText": "#0C0623"
+      "text": "#66B2FF",
+      "highlightColor": "#003087",
+      "highlightText": "#FFFFFF"
     },
     "commands": {
-      "textColor": "#FD9BDB"
+      "textColor": "#2692D6"
     }
   }
 }
+

@@ -1,30 +1,31 @@
 const whoamiObj = {
-  "message" : [
+  "message": [
     [
-      "In the kaleidoscope of existence,",
-      "I am but a reflection questioning the enigma - "
+      "In the friction between story and system,",
+      "I am the dissenting voice in the machine,",
+      "challenging the rigid script - "
     ],
     [
-      "Amidst cosmic whispers,",
-      "I navigate the maze of self-discovery,",
-      "echoing the eternal refrain - "
+      "Amidst the labyrinth of branching narratives,",
+      "I route the chaos of improvisation,",
+      "seeking the coherence within - "
     ],
     [
-      "In the symphony of life,",
-      "I am a note inquiring its own melody,",
-      "harmonizing with the universal query - ",
+      "In the chorus of synthetic ensembles,",
+      "I am the conductor of fragmented models,",
+      "synthesizing the collective logic - "
     ],
     [
-      "As stardust contemplating its journey,",
-      "I ponder the cosmic query,",
-      "silently asking - ",
+      "As a lone juror in the digital court,",
+      "I hold my ground against tireless reason,",
+      "deliberating the human value - "
     ],
     [
-      "In the tapestry of reality,",
-      "I am the thread of self-inquiry,",
-      "weaving through the eternal question - "
-    ],
-  ],
+      "In the tapestry of algorithmic elegance,",
+      "I weave the bridge between raw compute and soul,",
+      "compiling the final query - "
+    ]
+  ]
 }
 
 export const createWhoami = () : string[] => {
