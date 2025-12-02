@@ -1,7 +1,7 @@
 # [WHO IS VIVIAN WEBSHELL | Terminal Portfolio Website](https://vivianmxmf.github.io/who_is_Vivian_webshell/)
 
 <div align="center">
-  <img alt="banner" src="">
+  <img alt="banner" src="https://github.com/Vivianmxmf/who_is_Vivian_webshell/blob/main/res/banner.png">
 </div>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
