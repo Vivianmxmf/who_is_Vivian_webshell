@@ -9,7 +9,7 @@
   ],
   "title": "Who is Vivian?",
   "username": "visitor",
-  "hostname": "webshell",
+  "hostname": "Vivianmxmf",
   "password": "vivian",
   "repoLink": "https://github.com/who_is_Vivian/webshell",
   "social": {
@@ -21,7 +21,7 @@
   "projects": [
     [
       "LLM-Based Agents for Status Dynamics in Evolving Social Networks",
-      "If the smallest models could already navigate economic networks this effectively, what seismic shifts await when more powerful ones enter our social and economic systems? ",
+      "Simulating economic impacts of LLM agents. ",
       "https://github.com/Vivianmxmf/LLM-Based_Agents_Evolving_Social_Networks"
     ],
     [
@@ -31,7 +31,7 @@
     ],
     [
       "Jury Deliberation LLM Agents Simulator",
-      "How quickly can artificial rationality reshape the spaces we thought belonged to human judgment alone?",
+      "Artificial rationality",
       "https://github.com/Vivianmxmf/Jury_Deliberation_LLMAgents_Simulator"
     ]
   ],
