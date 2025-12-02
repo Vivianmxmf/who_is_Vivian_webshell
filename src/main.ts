@@ -225,7 +225,7 @@ function commandHandler(input : string) {
       writeLines(PROJECTS);
       break;
     case 'repo':
-      writeLines(["Redirecting to github.com...", "<br>"]);
+      writeLines(["Redirecting to Graphical Version", "<br>"]);
       setTimeout(() => {
         window.open(REPO_LINK, '_blank');
       }, 500);
